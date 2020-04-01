@@ -1,9 +1,9 @@
 # Demo-Model-Win-Fantasy-Game-
 
-Differences in   Actual Paper                             vs                          My Implementation
+Differences in   Actual Paper(A)                             vs                          My Implementation(B)
 
-* It uses a Dirichlet-multinomial data generating         * It uses mean and std deviation of fantasy pts and generates data on that . 
-process for selection.
+* (A)It uses a Dirichlet-multinomial data generating process for selection         vs (B) It uses mean and std deviation of fantasy pts and generates data on that . 
 
-* It uses Binary Quadratic Program Technique to           * It simply choses the max probability from the result and choses as the best
-optimize the results                                         optimum value
+
+* It uses Binary Quadratic Program Technique to optimize the result           vs (B) It simply choses the max probability from the result and choses as the best
+                                        
