@@ -5,5 +5,5 @@ Differences in   Actual Paper(A)                             vs                 
 * (A)It uses a Dirichlet-multinomial data generating process for selection         vs (B) It uses mean and std deviation of fantasy pts and generates data on that . 
 
 
-* It uses Binary Quadratic Program Technique to optimize the result           vs (B) It simply choses the max probability from the result and choses as the best
+* (A)It uses Binary Quadratic Program Technique to optimize the result           vs (B) It simply choses the max probability from the result and choses as the best
                                         
